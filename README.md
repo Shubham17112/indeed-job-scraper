@@ -62,6 +62,7 @@ This project is a Python-based web scraper designed to extract job listings from
 
 ## Demo
 Below are example screenshots of the scraper's output and process:
+
 <img width="501" height="192" alt="image" src="https://github.com/user-attachments/assets/8642073e-210a-4512-a2e3-9aa089970d2c" />
 <img width="1341" height="775" alt="image" src="https://github.com/user-attachments/assets/b8ee64c6-165a-4481-80aa-36eb7d211d3b" />
 
